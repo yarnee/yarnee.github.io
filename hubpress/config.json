@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "yarnee",
-    "repositoryName": "yarnee.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"yarnee","repositoryName":"yarnee.github.io","branch":"master"},"site":{"url":"https://yarnee.github.io"},"socialnetwork":{"email":"ioannis@giannakakis.de","facebook":"yannis.giannakakis","github":"yarnee.github.com"},"theme":{"name":"Casper","url":"//yarnee.github.io/themes/Casper"}}
